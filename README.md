@@ -9,3 +9,6 @@
 
 #### Arduino CanBus Monitor
 * https://github.com/latonita/arduino-canbus-monitor
+
+#### Megasquirt Arduino Canbus
+* https://github.com/srenner/meguinauge
